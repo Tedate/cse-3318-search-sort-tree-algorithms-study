@@ -1,0 +1,11 @@
+algorithm,n,nanosPerLookup
+LinearSearch,10,57.77
+BinarySearch,10,39.91
+LinearSearch,100,109.96
+BinarySearch,100,31.67
+LinearSearch,1000,188.96
+BinarySearch,1000,49.6
+LinearSearch,10000,1909.88
+BinarySearch,10000,59.71
+LinearSearch,100000,19196.18
+BinarySearch,100000,81.1
